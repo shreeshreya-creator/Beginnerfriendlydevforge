@@ -1,0 +1,6 @@
+{
+  "name": "DevForge Studio - Real-Time Collaborative Portfolio IDE & AI Suite",
+  "description": "Professional developer portfolio builder with real-time multiplayer collaboration, AI-powered content generation, and live code preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
